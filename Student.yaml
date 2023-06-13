@@ -1,0 +1,47 @@
+---
+student:
+  - name: Rachel Green
+    age: 21
+    gender: Female
+    grade: 7
+    gpa: 4.5
+    isInternational: false
+    birthdate: 2002-05-20
+    registrationTimestamp: 2023-06-13T10:30:00Z
+    address:
+      street: 5th Avenue
+      city: New York
+      state: NY
+      zipcode: "10001"
+    contact:
+      - type: email
+        value: rachelgreen@gmail.com
+      - type: phone
+        value: +1 212-358-0650
+    сourses:
+      - name: Math
+        credits: 5
+      - name: Science
+        credits: 5
+      - name: English
+        credits: 5
+    parents:
+      - name: Sandra Green
+        relationship: Mother
+        contact:
+          - type: email
+            value: sandra@gmail.com
+          - type: phone
+            value: +1 212-358-0651
+      - name: Leonard Green
+        relationship: Father
+        contact:
+          - type: email
+            value: leonard@gmail.com
+          - type: phone
+            value: +1 212-358-0652
+      - name: null
+        relationship: null
+        contact:
+          - type: null
+            value: null
