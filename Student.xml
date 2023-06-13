@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+  <name>Rachel Green</name>
+  <age>21</age>
+  <gender>Female</gender>
+  <grade>7</grade>
+  <gpa>4.5</gpa>
+  <isInternational>false</isInternational>
+  <birthdate>2002-05-20</birthdate>
+  <registrationTimestamp>2023-06-13T10:30:00Z</registrationTimestamp>
+  <address>
+    <street>5th Avenue</street>
+    <city>New York</city>
+    <state>NY</state>
+    <zipcode>10001</zipcode>
+  </address>
+  <contact>
+    <type>email</type>
+    <value>rachelgreen@gmail.com</value>
+  </contact>
+  <contact>
+    <type>phone</type>
+    <value>+1 212-358-0650</value>
+  </contact>
+  <сourses>
+    <name>Math</name>
+    <credits>5</credits>
+  </сourses>
+  <сourses>
+    <name>Science</name>
+    <credits>5</credits>
+  </сourses>
+  <сourses>
+    <name>English</name>
+    <credits>5</credits>
+  </сourses>
+  <parents>
+    <name>Sandra Green</name>
+    <relationship>Mother</relationship>
+    <contact>
+      <type>email</type>
+      <value>sandra@gmail.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>+1 212-358-0651</value>
+    </contact>
+  </parents>
+  <parents>
+    <name>Leonard Green</name>
+    <relationship>Father</relationship>
+    <contact>
+      <type>email</type>
+      <value>leonard@gmail.com</value>
+    </contact>
+    <contact>
+      <type>phone</type>
+      <value>+1 212-358-0652</value>
+    </contact>
+  </parents>
+  <parents>
+    <name>null</name>
+    <relationship>null</relationship>
+    <contact>
+      <type>null</type>
+      <value>null</value>
+    </contact>
+  </parents>
+</student>
